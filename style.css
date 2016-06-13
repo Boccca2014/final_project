@@ -1,0 +1,21 @@
+body {
+background-image:url(http://science-all.com/images/wallpapers/cool-background-images/cool-background-images-18.jpg)
+}
+
+p {
+  color: gold;
+  background-color: black;
+}
+
+h1 {
+  color:white;
+}
+
+h2 { 
+  color:white;
+}
+
+img {
+  width:300px; 
+  height:300;
+}

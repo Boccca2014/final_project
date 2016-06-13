@@ -1,0 +1,10 @@
+body {
+background-image: url(http://www.thebestschools.org/wp-content/uploads/2015/09/Online-Computer-Science-degree-programs.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+p {
+  color: gold;
+  background-color: black;
+}
